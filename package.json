@@ -1,14 +1,14 @@
 {
-  "name": "gitbook-plugin-heading-anchors",
-  "description": "Adds anchor.js support to your gitbook",
+  "name": "gitbook-plugin-anchorjs",
+  "description": "Add anchor.js to your Gitbook",
   "main": "index.js",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "engines": {
     "gitbook": "*"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atuttle/gitbook-plugin-heading-anchors.git"
+    "url": "git+https://github.com/Simran-B/gitbook-plugin-anchorjs.git"
   },
   "keywords": [
     "gitbook",
@@ -16,10 +16,10 @@
     "anchorjs",
     "documentation"
   ],
-  "author": "Adam Tuttle <adamtuttlecodes@gmail.com>",
+  "author": "Adam Tuttle <adamtuttlecodes@gmail.com>; Simran Brucherseifer <simran@arangodb.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atuttle/gitbook-plugin-heading-anchors/issues"
+    "url": "https://github.com/Simran-B/gitbook-plugin-anchorjs/issues"
   },
-  "homepage": "https://github.com/atuttle/gitbook-plugin-heading-anchors#readme"
+  "homepage": "https://github.com/Simran-B/gitbook-plugin-anchorjs#readme"
 }
